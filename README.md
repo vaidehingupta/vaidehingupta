@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub! Here are the projects I've worked on as a Bioinformatics Master's student so far. I will be adding more soon :)
+Welcome to my GitHub! Here are the projects I've worked on as a Bioinformatics Master's student so far. I will be adding more soon :) Stay tuned!
 
 <!--
 **vaidehingupta/vaidehingupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
